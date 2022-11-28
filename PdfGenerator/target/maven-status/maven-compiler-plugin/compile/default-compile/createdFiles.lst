@@ -1,0 +1,3 @@
+com\example\PdfGenerator\service\PdfGeneratorService.class
+com\example\PdfGenerator\PdfGeneratorApplication.class
+com\example\PdfGenerator\controller\PdfExportController.class
